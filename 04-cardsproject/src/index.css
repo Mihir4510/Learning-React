@@ -1,5 +1,5 @@
 
-/*
+
 * {
   margin: 0;
   padding: 0;
@@ -144,9 +144,12 @@ h3 span {
   border-radius: 10px;
   cursor: pointer;
 }
-*/
 
-* {
+
+/* --------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* sir wali css */
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -263,4 +266,4 @@ body {
 .bottom p{
   font-size: 10px;
   color: #8b8b8b;
-}
+} */
