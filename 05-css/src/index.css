@@ -1,0 +1,11 @@
+*{
+    border: 10px;
+    background-color: aliceblue;
+
+}
+html,
+body{
+    border: 10px;
+    margin :auto;
+    padding: 5px;
+}
